@@ -1,0 +1,14 @@
+{
+  "name": "selfbot-demonstration",
+  "version": "1.0.0",
+  "description": "Educational demonstration of why selfbots violate Discord TOS",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.15.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.28.0"
+  }
+}
